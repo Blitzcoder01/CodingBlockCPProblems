@@ -23,6 +23,7 @@ Sample Output
 16
 Explanation
 We take second item 4 times and fifth item one time to make the total values 16.
+//1st item one time and 2nd item 4 times
 */
 import java.util.*;
 public class Main {
